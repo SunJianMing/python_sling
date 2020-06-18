@@ -1,0 +1,7 @@
+include my_silder/my_silder.min.js
+include my_silder/my_silder.min.js.map
+include my_silder/metadata.json
+include my_silder/package-info.json
+include README.md
+include LICENSE
+include package.json

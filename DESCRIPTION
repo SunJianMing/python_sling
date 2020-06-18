@@ -1,0 +1,15 @@
+Package: mySilder
+Title: Project Description
+Version: 0.0.1
+Authors @R: as.person(c(mrsun <18273965210@163.com>))
+Description: Project Description
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: Apache-2.0 + file LICENSE
+URL: 
+BugReports: 
+Encoding: UTF-8
+LazyData: true
+Author: mrsun [aut]
+Maintainer: mrsun <18273965210@163.com>
