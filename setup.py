@@ -2,7 +2,7 @@
 @Author: sjm
 @Date: 2020-06-18 16:40:15
 @LastEditors: sjm
-@LastEditTime: 2020-06-18 17:06:28
+@LastEditTime: 2020-06-18 17:08:22
 @FilePath: /my_silder/setup.py
 '''
 import json
@@ -24,7 +24,7 @@ setup(
     license=package['license'],
     description=package.get('description', package_name),
     install_requires=[],
-    url:URL,
+    url=URL,
     classifiers = [
         'Framework :: Dash',
     ],    
